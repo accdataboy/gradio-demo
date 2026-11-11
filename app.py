@@ -5,8 +5,8 @@ import gradio as gr
 DEFAULT_IMAGE = Path(__file__).parent / "assets" / "default-shutterstock.jpg"
 
 def welcome_baby(
-    gender: str | None,
     name: str,
+    gender: str | None,
     birthdate: str,
     photo: str | None,
 ) -> tuple[str, str | None]:
