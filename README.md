@@ -1,2 +1,2 @@
-# gradio-demo
+# Gradio demonstration
 A demonstration of the progressive web design interface in Gradio using Python.
